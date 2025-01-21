@@ -1,2 +1,2 @@
-# Ecommerce-Sales-Insights-Project
-INST447: Data Science Final Project (Fall 2024)
+# E-Commerce Sales Insights Project 🛍️🌎
+This project is driven by the need to understand and analyze key trends in the online sales of electronics, home appliances, clothing, books, beauty products, and sports items. The goal is to address two core challenges: identifying top-selling products in each category and analyzing regional variations in their sales performance, and exploring customer purchasing patterns and payment preferences across regions. These insights are helpful for businesses aiming to optimize operations, marketing strategies, and customer experiences in a competitive market.
